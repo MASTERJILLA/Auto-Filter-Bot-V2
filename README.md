@@ -90,7 +90,7 @@ python3 main.py
 
 * API_HASH      - From my.telegram.org (or @UseTGXBot)
 
-
+* TG_USER_SESSION A pyrogram user session string. Generate from https://repl.it/@prgofficial/String-Gen
 
 * AUTH_USERS  - ID of users that can use the bot commands. Get from [MissRose Bot](https://telegram.dog/MissRose_bot) by using /id command
 
@@ -104,7 +104,7 @@ python3 main.py
 
 * MUSIC_SEARCH  - Should bot search for music files ( Give 'yes' or 'no' )
 
-*PICS - Your Telegraph pics link
+* PICS - Your Telegraph pics link
 
 ## Credits
 
