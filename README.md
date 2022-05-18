@@ -104,6 +104,8 @@ python3 main.py
 
 * MUSIC_SEARCH  - Should bot search for music files ( Give 'yes' or 'no' )
 
+*PICS - Your Telegraph pics link
+
 ## Credits
 
 [![TroJanz](https://img.shields.io/badge/Pyrogram%20-%23F37626.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://github.com/pyrogram/pyrogram)
